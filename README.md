@@ -1,5 +1,12 @@
 # wechaty-token
 
+> [!IMPORTANT]
+> **This repository has moved.** `wechaty-token` is now developed in the Wechaty monorepo at
+> [`packages/wechaty-token`](https://github.com/wechaty/wechaty/tree/main/packages/wechaty-token),
+> with its full history ([wechaty/wechaty#3054](https://github.com/wechaty/wechaty/issues/3054)).
+> Please open issues and pull requests in [wechaty/wechaty](https://github.com/wechaty/wechaty).
+> This repository is archived and read-only.
+
 [![NPM](https://github.com/wechaty/token/actions/workflows/npm.yml/badge.svg)](https://github.com/wechaty/token/actions/workflows/npm.yml)
 [![NPM Version](https://badge.fury.io/js/wechaty-token.svg)](https://badge.fury.io/js/wechaty-token)
 [![npm (tag)](https://img.shields.io/npm/v/wechaty-token/next.svg)](https://www.npmjs.com/package/wechaty-token?activeTab=versions)
